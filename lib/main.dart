@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_list/menu.dart';
+import 'package:shopping_list/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
         useMaterial3: true,
+        primarySwatch: Colors.indigo,
       ),
       home: MyHomePage(),
     );
