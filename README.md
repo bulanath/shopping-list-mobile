@@ -1,4 +1,8 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/91dc3877-cc17-4e42-a07d-bf470320c6fe/branches/main/badge)](https://appcenter.ms)
+
 # shopping_list
+
+**Download app [here](https://install.appcenter.ms/orgs/bulan-shopping-list/apps/shopping-list/distribution_groups/public)**
 
 A new Flutter project.
 
